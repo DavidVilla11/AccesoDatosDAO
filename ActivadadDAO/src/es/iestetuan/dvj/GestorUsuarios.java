@@ -9,8 +9,7 @@ public class GestorUsuarios {
 		
 		IAlumno prueba = new AlumnoFicheroDAO();
 		
-		System.out.println(prueba.getAlumno(171).getApellido2());
-		prueba.getListaAlumno().forEach(System.out::println);
+		prueba.ElegirModoUsoProperties();
 
 	}
 

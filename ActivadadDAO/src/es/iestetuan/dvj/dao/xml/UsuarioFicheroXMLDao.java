@@ -19,4 +19,40 @@ public class UsuarioFicheroXMLDao implements IAlumno {
 		return null;
 	}
 
+	@Override
+	public void cargarProperties() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void crearFicheros() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void borrarArchivos() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void CrearDirectoriosJSON() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void CrearDirectoriosXML() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void ElegirModoUsoProperties() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
