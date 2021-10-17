@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<root>
+<!DOCTYPE xml>
+<properties>
    <CrearInfoTemporalTexto>C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/Texto-DVJ/info-temporal.txt</CrearInfoTemporalTexto>
    <CrearInfoTemporalXML>C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/XML-DVJ/info-temporal.txt</CrearInfoTemporalXML>
    <ruta1>C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/Texto-DVJ</ruta1>
@@ -11,4 +11,4 @@
    <ruta6>C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/backup</ruta6>
    <ruta7>C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/procesados</ruta7>
    <ruta8>C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/info/alumnos</ruta8>
-</root>
+</properties>
