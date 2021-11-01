@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<properties>
+   <CrearInfoTemporalTexto>C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/Texto-DVJ/info-temporal.txt</CrearInfoTemporalTexto>
+   <CrearInfoTemporalXML>C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/XML-DVJ/info-temporal.txt</CrearInfoTemporalXML>
+   <ruta1>C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/Texto-DVJ</ruta1>
+   <ruta2>C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/XML-DVJ</ruta2>
+   <ruta3>C:/Users/David/Desktop/AccesoADatos/Ficheros/Texto/backup</ruta3>
+   <ruta4>C:/Users/David/Desktop/AccesoADatos/Ficheros/Texto/info/alumnos</ruta4>
+   <ruta5>C:/Users/David/Desktop/AccesoADatos/Ficheros/Texto/procesados</ruta5>
+   <ruta6>C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/backup</ruta6>
+   <ruta7>C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/procesados</ruta7>
+   <ruta8>C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/info/alumnos</ruta8>
+</properties>
