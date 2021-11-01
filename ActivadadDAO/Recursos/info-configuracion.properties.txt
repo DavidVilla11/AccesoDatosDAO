@@ -1,0 +1,10 @@
+ruta1=C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/Texto-DVJ
+ruta2=C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/XML-DVJ
+ruta3=C:/Users/David/Desktop/AccesoADatos/Ficheros/Texto/backup
+ruta4=C:/Users/David/Desktop/AccesoADatos/Ficheros/Texto/info/alumnos
+ruta5=C:/Users/David/Desktop/AccesoADatos/Ficheros/Texto/procesados
+ruta6=C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/backup
+ruta7=C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/procesados
+ruta8=C:/Users/David/Desktop/AccesoADatos/Ficheros/XML/info/alumnos
+CrearInfoTemporalTexto=C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/Texto-DVJ/info-temporal.txt
+CrearInfoTemporalXML=C:/Users/David/Desktop/AccesoADatos/Ficheros/00-temp/XML-DVJ/info-temporal.txt

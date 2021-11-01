@@ -1,0 +1,17 @@
+<Alumnos>
+	<Alumno id="171">
+		<Nombre> Julia</Nombre>
+		<Apellido1> Sanz</Apellido1>
+		<Apellido2> Martín</Apellido2>
+	</Alumno>
+	<Alumno id="318">
+		<Nombre> Francisco</Nombre>
+		<Apellido1> Domínguez</Apellido1>
+		<Apellido2> Sánchez </Apellido2>
+	</Alumno>
+	<Alumno id="619">
+		<Nombre> Valery</Nombre>
+		<Apellido1> Martín</Apellido1>
+		<Apellido2></Apellido2>
+	</Alumno>
+</Alumnos>

@@ -42,7 +42,7 @@ public class AlumnoFicheroDAO implements IAlumno {
 				} else {
 					int IDRecuperado = Integer.parseInt(partes[0]);
 					if (id == IDRecuperado) {
-						AlumnoEJ.setNia(IDRecuperado);
+						AlumnoEJ.setId(IDRecuperado);
 						AlumnoEJ.setNombre(partes[1]);
 						AlumnoEJ.setApellido1(partes[2]);
 						AlumnoEJ.setApellido2(partes[3]);
@@ -79,7 +79,7 @@ public class AlumnoFicheroDAO implements IAlumno {
 					if (partes.length > 3) {
 						Alumno AlumnoEJ = new Alumno();
 						int ID = Integer.parseInt(partes[0]);
-						AlumnoEJ.setNia(ID);
+						AlumnoEJ.setId(ID);
 						AlumnoEJ.setNombre(partes[1]);
 						AlumnoEJ.setApellido1(partes[2]);
 						AlumnoEJ.setApellido2(partes[3]);
@@ -88,7 +88,7 @@ public class AlumnoFicheroDAO implements IAlumno {
 					} else if (partes.length <= 3) {
 						Alumno AlumnoEJ = new Alumno();
 						int ID = Integer.parseInt(partes[0]);
-						AlumnoEJ.setNia(ID);
+						AlumnoEJ.setId(ID);
 						AlumnoEJ.setNombre(partes[1]);
 						AlumnoEJ.setApellido1(partes[2]);
 						ListadoAlumno.add(AlumnoEJ);

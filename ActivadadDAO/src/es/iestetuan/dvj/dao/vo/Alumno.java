@@ -2,30 +2,30 @@ package es.iestetuan.dvj.dao.vo;
 
 public class Alumno extends Profesor {
 	
-	protected int nia;
+	protected int id;
 
 
-	public Alumno(int nia) {
+	public Alumno(int id) {
 		super();
-		this.nia = nia;
+		this.id = id;
 	}
 	
 	public Alumno() {
 		super();	
 	}
 
-	public int getNia() {
-		return nia;
+	public int getId() {
+		return id;
 	}
 
 
-	public void setNia(int nia) {
-		this.nia = nia;
+	public void setId(int id) {
+		this.id = id;
 	}
 
 	@Override
 	public String toString() {
-		return "Alumno [nia=" + nia + ", nie=" + nie + ", nombre=" + nombre + ", apellido1=" + apellido1
+		return "Alumno [nia=" + id + ", nie=" + nie + ", nombre=" + nombre + ", apellido1=" + apellido1
 				+ ", apellido2=" + apellido2 + ", email=" + email + "]";
 	}
 	
